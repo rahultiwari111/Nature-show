@@ -1,0 +1,76 @@
+*{
+    background-color: rgb(92, 84, 238);
+}
+.one{
+    background-color: rgb(92, 84, 238);
+    width: 700px;
+    height: 380px;
+    align-self: center;
+    padding-top: 100px;
+    padding-left: 280px;
+}
+div{
+    /* transition-timing-function: steps(2); */
+    width: 350px;
+    height: 130px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-size: cover;
+}
+#two:hover{
+    background-image: url(nature\ 7.jpeg);
+}
+#three:hover{
+    background-image: url(nature\ 6.jpeg);
+}
+#four:hover{
+    background-image: url(nature\ 8.jpeg);
+}
+#five:hover{
+    background-image: url(nature\ 9.jpeg);
+}
+#six:hover{
+    background-image: url(nature\ 6.jpeg);
+}
+#seven:hover{
+    background-image: url(nature\ 7.jpeg);
+}
+#two{
+    background-color: white;
+    background-image: url(nature\ 0.jpeg);
+    /* width: 270px;
+    height: 110px; */
+    /* transition-delay: 4s; */
+    /* transition-timing-function: steps(1000); */
+}
+#three{
+    background-color: white;
+    background-image: url(nature\ 1.jpeg);
+    /* width: 280px;
+    height: 100px; */
+}
+#four{
+    background-color: white;
+    background-image: url(nature\ 2.jpeg);
+    /* width: 280px;
+    height: 100px; */
+}
+#five{
+    background-color: white;
+    background-image: url(nature\ 3.jpeg);
+    /* width: 280px;
+    height: 100px; */
+}
+#six{
+    background-color: white;
+    background-image: url(nature\ 4.jpeg);
+    /* width: 280px;
+    height: 100px; */
+}
+#seven{
+    background-color: white;
+    background-image: url(nature\ 5.jpeg);
+    /* width: 280px;
+    height: 100px; */
+}
